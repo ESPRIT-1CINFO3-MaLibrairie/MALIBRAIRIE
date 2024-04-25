@@ -14,4 +14,9 @@ public class Librarian {
     public void setName(String name) {
         this.name = name;
     }
+    // Method to display librarian details
+    public void displayDetails() {
+        System.out.println("Librarian: " + name);
+    }
+}
 
