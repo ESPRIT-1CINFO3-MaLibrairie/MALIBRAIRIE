@@ -57,4 +57,14 @@ public class fournisseur {
     public void setCin(int cin) {
         this.cin = cin;
     }
+
+    // Method to display fournisseur details
+    public void displayFournisseurDetails() {
+        System.out.println("Nom: " + nom);
+        System.out.println("Prenom: " + prenom);
+        System.out.println("Email: " + email);
+        System.out.println("Cin: " + cin);
+
+        System.out.println("ID: " + id);
+    }
 }
