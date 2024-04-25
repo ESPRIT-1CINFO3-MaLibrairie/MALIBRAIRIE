@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="5b9b7a10-b6f0-4d1d-a913-878bea1eb4b2" name="Changes" comment="">
 <<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -11,6 +12,9 @@
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
 >>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
     </list>
+=======
+    <list default="true" id="5b9b7a10-b6f0-4d1d-a913-878bea1eb4b2" name="Changes" comment="" />
+>>>>>>> 06e98c1770d5df2986c086cd87cff44911fe3144
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +35,7 @@
   </component>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 =======
@@ -46,6 +51,11 @@
   "associatedIndex": 6
 >>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
 }]]></component>
+=======
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+>>>>>>> 06e98c1770d5df2986c086cd87cff44911fe3144
   <component name="ProjectId" id="2fKwKVfrj4lfwM0rwzyenAo1o6S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,6 +69,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -66,10 +77,13 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/amanirahmouni/malibrairie",
 =======
+=======
+>>>>>>> 06e98c1770d5df2986c086cd87cff44911fe3144
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+<<<<<<< HEAD
     "git-widget-placeholder": "Book",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/DJAPPA/malibrairie",
@@ -82,11 +96,17 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/ESPRIT/JAVA/MaLibrairie",
 >>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
+=======
+    "git-widget-placeholder": "Librarian",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Malek.moalla/Projet_GIT/malibrairie",
+>>>>>>> 06e98c1770d5df2986c086cd87cff44911fe3144
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     "vue.rearranger.settings.migration": "true"
@@ -125,6 +145,26 @@
     </attachedChunks>
   </component>
 >>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
+=======
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Malek.moalla\Projet_GIT\malibrairie\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-jbrsdk-17.0.9-4caba194b151-b614c381" />
+      </set>
+    </attachedChunks>
+  </component>
+>>>>>>> 06e98c1770d5df2986c086cd87cff44911fe3144
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -137,6 +177,7 @@
       <workItem from="1714072628986" duration="2463000" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1714078213709" duration="52000" />
 =======
       <workItem from="1714076110189" duration="2938000" />
@@ -144,6 +185,10 @@
 =======
       <workItem from="1714075652481" duration="3522000" />
 >>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
+=======
+      <workItem from="1714076038939" duration="231000" />
+      <workItem from="1714076289042" duration="2771000" />
+>>>>>>> 06e98c1770d5df2986c086cd87cff44911fe3144
     </task>
     <servers />
   </component>
