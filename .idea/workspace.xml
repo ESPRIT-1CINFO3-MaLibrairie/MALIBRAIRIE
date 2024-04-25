@@ -25,8 +25,16 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
+=======
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+>>>>>>> a515c5f51943b7ff4eaa68bee8ccdfd84f3ac737
 }]]></component>
   <component name="ProjectId" id="2fKwKVfrj4lfwM0rwzyenAo1o6S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -39,17 +47,28 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+<<<<<<< HEAD
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/amanirahmouni/malibrairie",
+=======
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Book",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DJAPPA/malibrairie",
+>>>>>>> a515c5f51943b7ff4eaa68bee8ccdfd84f3ac737
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+<<<<<<< HEAD
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,6 +87,12 @@
       </method>
     </configuration>
   </component>
+=======
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+>>>>>>> a515c5f51943b7ff4eaa68bee8ccdfd84f3ac737
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,7 +103,11 @@
       <updated>1713563014191</updated>
       <workItem from="1713563112649" duration="3121000" />
       <workItem from="1714072628986" duration="2463000" />
+<<<<<<< HEAD
       <workItem from="1714078213709" duration="52000" />
+=======
+      <workItem from="1714076110189" duration="2938000" />
+>>>>>>> a515c5f51943b7ff4eaa68bee8ccdfd84f3ac737
     </task>
     <servers />
   </component>
