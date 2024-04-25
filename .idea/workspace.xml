@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="5b9b7a10-b6f0-4d1d-a913-878bea1eb4b2" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fournisseur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fournisseur.java" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+>>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
+>>>>>>> f16c369e82ec31e8fa068a242998e62423b4b316
     </list>
+=======
+    <list default="true" id="5b9b7a10-b6f0-4d1d-a913-878bea1eb4b2" name="Changes" comment="" />
+>>>>>>> 06e98c1770d5df2986c086cd87cff44911fe3144
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +39,29 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+=======
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+>>>>>>> a515c5f51943b7ff4eaa68bee8ccdfd84f3ac737
+=======
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+>>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
+}]]></component>
+=======
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+>>>>>>> 06e98c1770d5df2986c086cd87cff44911fe3144
   <component name="ProjectId" id="2fKwKVfrj4lfwM0rwzyenAo1o6S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -32,15 +70,107 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ESPRIT/JAVA/MaLibrairie&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/amanirahmouni/malibrairie",
+=======
+=======
+>>>>>>> 06e98c1770d5df2986c086cd87cff44911fe3144
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+<<<<<<< HEAD
+    "git-widget-placeholder": "Book",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DJAPPA/malibrairie",
+>>>>>>> a515c5f51943b7ff4eaa68bee8ccdfd84f3ac737
+=======
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Library",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ESPRIT/JAVA/MaLibrairie",
+>>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
+=======
+    "git-widget-placeholder": "Librarian",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Malek.moalla/Projet_GIT/malibrairie",
+>>>>>>> 06e98c1770d5df2986c086cd87cff44911fe3144
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="malibrairie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="malibrairie" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+=======
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+>>>>>>> a515c5f51943b7ff4eaa68bee8ccdfd84f3ac737
+=======
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-jbr-17.0.9-4caba194b151-51f1b679" />
+      </set>
+    </attachedChunks>
+  </component>
+>>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
+=======
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Malek.moalla\Projet_GIT\malibrairie\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-jbrsdk-17.0.9-4caba194b151-b614c381" />
+      </set>
+    </attachedChunks>
+  </component>
+>>>>>>> 06e98c1770d5df2986c086cd87cff44911fe3144
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +180,25 @@
       <option name="presentableId" value="Default" />
       <updated>1713563014191</updated>
       <workItem from="1713563112649" duration="3121000" />
+<<<<<<< HEAD
       <workItem from="1714072628986" duration="4788000" />
+=======
+      <workItem from="1714072628986" duration="2463000" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <workItem from="1714078213709" duration="52000" />
+=======
+      <workItem from="1714076110189" duration="2938000" />
+>>>>>>> a515c5f51943b7ff4eaa68bee8ccdfd84f3ac737
+=======
+      <workItem from="1714075652481" duration="3522000" />
+>>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
+=======
+      <workItem from="1714076038939" duration="231000" />
+      <workItem from="1714076289042" duration="2771000" />
+>>>>>>> 06e98c1770d5df2986c086cd87cff44911fe3144
+>>>>>>> f16c369e82ec31e8fa068a242998e62423b4b316
     </task>
     <servers />
   </component>
