@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b9b7a10-b6f0-4d1d-a913-878bea1eb4b2" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+>>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +30,7 @@
     <option name="stateVersion" value="1" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 =======
@@ -35,6 +40,11 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 >>>>>>> a515c5f51943b7ff4eaa68bee8ccdfd84f3ac737
+=======
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+>>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
 }]]></component>
   <component name="ProjectId" id="2fKwKVfrj4lfwM0rwzyenAo1o6S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -47,6 +57,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -63,11 +74,20 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/DJAPPA/malibrairie",
 >>>>>>> a515c5f51943b7ff4eaa68bee8ccdfd84f3ac737
+=======
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Library",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ESPRIT/JAVA/MaLibrairie",
+>>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "vue.rearranger.settings.migration": "true"
   }
@@ -93,6 +113,18 @@
   }
 }]]></component>
 >>>>>>> a515c5f51943b7ff4eaa68bee8ccdfd84f3ac737
+=======
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-jbr-17.0.9-4caba194b151-51f1b679" />
+      </set>
+    </attachedChunks>
+  </component>
+>>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -104,10 +136,14 @@
       <workItem from="1713563112649" duration="3121000" />
       <workItem from="1714072628986" duration="2463000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1714078213709" duration="52000" />
 =======
       <workItem from="1714076110189" duration="2938000" />
 >>>>>>> a515c5f51943b7ff4eaa68bee8ccdfd84f3ac737
+=======
+      <workItem from="1714075652481" duration="3522000" />
+>>>>>>> 109eaf6d5ad3030cf6e35e3fc7dcd66ddb5807d1
     </task>
     <servers />
   </component>
