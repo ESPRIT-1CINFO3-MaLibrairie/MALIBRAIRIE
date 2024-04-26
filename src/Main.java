@@ -15,5 +15,11 @@ public class Main {
         // Create some books
         Book book1 = new Book("Alice in borderland", "Bahe", 101);
         Book book2 = new Book("Lupin", "Jihen", 102);
+        // Create a librarian
+        Librarian librarian = new Librarian("Alex");
+
+        // Display librarian details
+        System.out.println("\n LIBRARIAN DETAILS :\n");
+        librarian.displayDetails();
     }
 }
